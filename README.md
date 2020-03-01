@@ -26,4 +26,5 @@
 - [sway-alttab](https://github.com/reisub0/sway-alttab) - provides alt-tab support for switching to last focused window
 - [wl-gammctl](https://github.com/mischw/wl-gammactl) - GUI app to set contrast, brightness and gamma
 - [wob](https://github.com/francma/wob) - overlayable progress bar
+- [workstyle](https://github.com/pierrechevalier83/workstyle) - autorename your workspaces
 - [ydootool](https://github.com/ReimuNotMoe/ydotool) - xdotool replacement with Wayland support
