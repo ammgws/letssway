@@ -8,6 +8,9 @@
 - [sgtk-menu](https://github.com/nwg-piotr/sgtk-menu) - GTK app launcher
 - [wlogout](https://github.com/ArtsyMacaw/wlogout) - logout menu
 
+## Bars
+- [waybar](https://github.com/Alexays/Waybar) - highly customisable status bar
+
 ## Other
 
 - [i3keys](https://github.com/RasmusLindroth/i3keys) - displays all keys that have been bound in your sway config
@@ -19,3 +22,5 @@
 - [kanshi](https://github.com/emersion/kanshi) - dynamic display configuration
 - [slurp](https://github.com/emersion/slurp) - region selector (handy for grim)
 - [grim](https://github.com/emersion/grim) - take screenshots
+- [imv](https://github.com/eXeC64/imv) - image viewer
+- [wob](https://github.com/francma/wob) - overlayable progress bar
