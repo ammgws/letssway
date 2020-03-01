@@ -13,6 +13,7 @@
 - [waybar](https://github.com/Alexays/Waybar) - highly customisable status bar
 
 ## Other
+- [autotiling](https://github.com/nwg-piotr/autotiling) - automatically switch between splith/splitv
 - [azote](https://github.com/nwg-piotr/azote) - wallpaper manager
 - [grim](https://github.com/emersion/grim) - take screenshots
 - [i3keys](https://github.com/RasmusLindroth/i3keys) - displays all keys that have been bound in your sway config
