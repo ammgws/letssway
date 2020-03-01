@@ -1,12 +1,13 @@
 # letssway
 > Curated list of tools/scripts/etc to improve your `sway` experience
 
-## Menus
+## Menus/Launchers
 
 - [bemenu](https://github.com/Cloudef/bemenu) - dmenu replacement with Wayland support
-- [wofi](https://hg.sr.ht/~scoopta/wofi) - rofi replacement with Wayland support
+- [lavalauncher](https://git.sr.ht/%7Eleon_plickat/lavalauncher) - launcher panel
 - [sgtk-menu](https://github.com/nwg-piotr/sgtk-menu) - GTK app launcher
 - [wlogout](https://github.com/ArtsyMacaw/wlogout) - logout menu
+- [wofi](https://hg.sr.ht/~scoopta/wofi) - rofi replacement with Wayland support
 
 ## Bars
 - [waybar](https://github.com/Alexays/Waybar) - highly customisable status bar
