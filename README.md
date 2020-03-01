@@ -26,3 +26,4 @@
 - [imv](https://github.com/eXeC64/imv) - image viewer
 - [wob](https://github.com/francma/wob) - overlayable progress bar
 - [wl-gammctl](https://github.com/mischw/wl-gammactl) - GUI app to set contrast, brightness and gamma
+- [ydootool](https://github.com/ReimuNotMoe/ydotool) - xdotool replacement with Wayland support
