@@ -1,5 +1,5 @@
 # letssway
-> Curated list of tools/scripts/etc to improve your `sway` experience
+> Curated list of tools/scripts/etc to improve your `sway` and `wayland` experience
 
 ## Menus/Launchers
 - [bemenu](https://github.com/Cloudef/bemenu) - dmenu replacement with Wayland support
