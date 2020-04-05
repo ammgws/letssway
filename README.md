@@ -10,7 +10,7 @@
 
 ## Bars
 - [waybar](https://github.com/Alexays/Waybar) - highly customisable status bar
-- [workstyle](https://github.com/pierrechevalier83/workstyle) - autorename your workspaces in you bar to look nice
+- [workstyle](https://github.com/pierrechevalier83/workstyle) - autorename your workspaces in your bar to look nice
 
 ## User Interface
 - [autotiling](https://github.com/nwg-piotr/autotiling) - automatically switch between splith/splitv
