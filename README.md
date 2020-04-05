@@ -27,7 +27,7 @@
 ## Input Devices
 - [i3keys](https://github.com/RasmusLindroth/i3keys) - displays all keys that have been bound in your sway config
 - [kanshi](https://github.com/emersion/kanshi) - dynamic display configuration
-- [ydootool](https://github.com/ReimuNotMoe/ydotool) - xdotool replacement with Wayland support
+- [ydotool](https://github.com/ReimuNotMoe/ydotool) - xdotool replacement with Wayland support
 - [wev](https://git.sr.ht/~sircmpwn/wev) - a tool for debugging events on a Wayland window, analagous to the X11 tool xev.
 - [wl-gammctl](https://github.com/mischw/wl-gammactl) - GUI app to set contrast, brightness and gamma
 - [wl-clipboard](https://github.com/bugaevc/wl-clipboard) - command-line Wayland clipboard utility that lets you easily copy data between the clipboard and Unix pipes, sockets, files and so on.
