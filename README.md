@@ -3,6 +3,7 @@
 
 ## Menus/Launchers
 - [bemenu](https://github.com/Cloudef/bemenu) - dmenu replacement with Wayland support
+- [gmenu](https://gitlab.com/tslocum/gmenu) - terminal and GTK app launcher
 - [lavalauncher](https://git.sr.ht/%7Eleon_plickat/lavalauncher) - launcher panel
 - [sgtk-menu](https://github.com/nwg-piotr/sgtk-menu) - GTK app launcher
 - [wlogout](https://github.com/ArtsyMacaw/wlogout) - logout menu
