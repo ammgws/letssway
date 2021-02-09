@@ -1,3 +1,5 @@
+# Archiving in favour of the new section on the Sway Wiki: https://github.com/swaywm/sway/wiki/Useful-add-ons-for-sway
+
 # letssway
 > Curated list of tools/scripts/etc to improve your `sway` and `wayland` experience
 
